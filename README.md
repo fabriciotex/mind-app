@@ -1,24 +1,22 @@
-# README
+# Mind Map Web Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Developed during a DIO Lab.
 
-Things you may want to cover:
 
-* Ruby version
+Technology stack
 
-* System dependencies
+- Ruby
 
-* Configuration
+- Ruby on Rails
 
-* Database creation
+Deployed with Heroku
 
-* Database initialization
+Check a working [demo](https://dio-mind-app.herokuapp.com/users/sign_in)!
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+Lab Host: [DIO](hhttps://www.dio.me/en)
 
-* Deployment instructions
 
-* ...
+
+
+
